@@ -1,0 +1,30 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #ffffff;
+  }
+  
+  nav {
+    padding: 30px;
+  }
+  
+  nav a {
+    font-weight: bold;
+    color: #ffffff;
+    display: block; /* Hace que el enlace ocupe todo el espacio */
+  }
+  
+  nav a.router-link-exact-active {
+    color: rgb(255, 142, 35);
+  }
+
+  body {
+    background-color:rgb(32, 32, 32);
+  }
+
+
+
+
+
+

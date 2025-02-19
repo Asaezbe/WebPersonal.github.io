@@ -1,0 +1,214 @@
+[
+    {
+      "id": 1,
+      "nombre": "Torres del Paine",
+      "region": "Magallanes",
+      "descripcion": "Uno de los parques nacionales más impresionantes, con montañas, glaciares y lagos.",
+      "imagen": "torres_del_paine.jpg",
+      "calificaciones": 4.9,
+      "tipo_actividad": "Naturaleza",
+      "reseñas": [
+        {
+          "usuario": "Juan Pérez",
+          "comentario": "Increíble lugar para desconectarse y disfrutar de la naturaleza.",
+          "calificacion": 5
+        },
+        {
+          "usuario": "Ana Gómez",
+          "comentario": "Paisajes impresionantes, pero puede ser muy frío en invierno.",
+          "calificacion": 4.8
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "San Pedro de Atacama",
+      "region": "Antofagasta",
+      "descripcion": "Un desierto de paisajes áridos con salares, géiseres y cielos despejados ideales para la astronomía.",
+      "imagen": "san_pedro_de_atacama.jpg",
+      "calificaciones": 4.7,
+      "tipo_actividad": "Aventura",
+      "reseñas": [
+        {
+          "usuario": "Carlos Medina",
+          "comentario": "Los tours astronómicos son espectaculares.",
+          "calificacion": 4.9
+        },
+        {
+          "usuario": "Lucía Herrera",
+          "comentario": "El calor puede ser agotador, pero vale la pena.",
+          "calificacion": 4.5
+        }
+      ]
+    },
+    {
+        "id": 3,
+        "nombre": "Isla de Pascua",
+        "region": "Valparaíso",
+        "descripcion": "Famosa por sus moáis, esta isla ofrece una mezcla de arqueología y paisajes paradisíacos.",
+        "imagen": "isla_de_pascua.jpg",
+        "calificaciones": 4.8,
+        "tipo_actividad": "Cultural",
+        "reseñas": [
+          {
+            "usuario": "María López",
+            "comentario": "Los moáis son impresionantes. Toda la isla está llena de historia.",
+            "calificacion": 5
+          },
+          {
+            "usuario": "Roberto García",
+            "comentario": "Un lugar mágico, pero el acceso es caro.",
+            "calificacion": 4.7
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "nombre": "Valle de la Luna",
+        "region": "Antofagasta",
+        "descripcion": "Un paisaje lunar formado por la erosión del viento y del agua, ideal para explorar en excursiones.",
+        "imagen": "valle_de_la_luna.jpg",
+        "calificaciones": 4.6,
+        "tipo_actividad": "Aventura",
+        "reseñas": [
+          {
+            "usuario": "Fernando Orozco",
+            "comentario": "Es como estar en otro planeta. Las puestas de sol son imperdibles.",
+            "calificacion": 4.9
+          },
+          {
+            "usuario": "Carla Méndez",
+            "comentario": "Recomiendo llevar suficiente agua, el calor puede ser fuerte.",
+            "calificacion": 4.3
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "nombre": "Lago Llanquihue",
+        "region": "Los Lagos",
+        "descripcion": "El segundo lago más grande de Chile, rodeado de volcanes y pueblos pintorescos.",
+        "imagen": "lago_llanquihue.jpg",
+        "calificaciones": 4.7,
+        "tipo_actividad": "Naturaleza",
+        "reseñas": [
+          {
+            "usuario": "Javier Ríos",
+            "comentario": "Las vistas del volcán Osorno desde el lago son espectaculares.",
+            "calificacion": 4.8
+          },
+          {
+            "usuario": "Claudia Vargas",
+            "comentario": "Un lugar perfecto para descansar y disfrutar de la naturaleza.",
+            "calificacion": 4.7
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "nombre": "Chiloé",
+        "region": "Los Lagos",
+        "descripcion": "Conocida por su cultura única, sus iglesias de madera y sus paisajes verdes.",
+        "imagen": "chiloe.jpg",
+        "calificaciones": 4.5,
+        "tipo_actividad": "Cultural",
+        "reseñas": [
+          {
+            "usuario": "Sofía Campos",
+            "comentario": "Chiloé tiene un encanto muy especial. La cultura local es fascinante.",
+            "calificacion": 4.9
+          },
+          {
+            "usuario": "Diego Figueroa",
+            "comentario": "El clima puede ser lluvioso, pero los paisajes lo compensan.",
+            "calificacion": 4.4
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "nombre": "Valparaíso",
+        "region": "Valparaíso",
+        "descripcion": "Una ciudad portuaria colorida y llena de vida, conocida por sus cerros y arte callejero.",
+        "imagen": "valparaiso.jpg",
+        "calificaciones": 4.6,
+        "tipo_actividad": "Cultural",
+        "reseñas": [
+          {
+            "usuario": "Gabriela Silva",
+            "comentario": "Cada rincón de Valparaíso tiene arte. Es un lugar lleno de vida.",
+            "calificacion": 4.8
+          },
+          {
+            "usuario": "Ignacio León",
+            "comentario": "Hay que estar atento a la seguridad, pero vale la pena visitar sus cerros.",
+            "calificacion": 4.5
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "nombre": "Pucón",
+        "region": "Araucanía",
+        "descripcion": "Con el volcán Villarrica de fondo, Pucón es un lugar ideal para deportes al aire libre y relax.",
+        "imagen": "pucon.jpg",
+        "calificaciones": 4.7,
+        "tipo_actividad": "Aventura",
+        "reseñas": [
+          {
+            "usuario": "Pedro Sánchez",
+            "comentario": "Escalar el volcán Villarrica es una experiencia única.",
+            "calificacion": 4.9
+          },
+          {
+            "usuario": "Elena Cifuentes",
+            "comentario": "Hay muchas actividades para hacer, pero es un lugar muy turístico.",
+            "calificacion": 4.6
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "nombre": "Parque Nacional Conguillío",
+        "region": "Araucanía",
+        "descripcion": "Un parque con paisajes impresionantes que incluyen lagos, bosques milenarios y el volcán Llaima.",
+        "imagen": "parque_conguillio.jpg",
+        "calificaciones": 4.8,
+        "tipo_actividad": "Naturaleza",
+        "reseñas": [
+          {
+            "usuario": "Andrés Fuentes",
+            "comentario": "Los paisajes son de ensueño, ideales para desconectar.",
+            "calificacion": 5
+          },
+          {
+            "usuario": "Verónica Soto",
+            "comentario": "Es un poco difícil llegar, pero vale cada segundo.",
+            "calificacion": 4.7
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "nombre": "Cajón del Maipo",
+        "region": "Metropolitana",
+        "descripcion": "Una escapada natural cerca de Santiago, con paisajes montañosos y ríos para deportes extremos.",
+        "imagen": "cajon_del_maipo.jpg",
+        "calificaciones": 4.6,
+        "tipo_actividad": "Aventura",
+        "reseñas": [
+          {
+            "usuario": "Mónica Reyes",
+            "comentario": "Es perfecto para escapadas de fin de semana y aventuras al aire libre.",
+            "calificacion": 4.7
+          },
+          {
+            "usuario": "Tomás Varela",
+            "comentario": "Un lugar hermoso para hacer trekking y disfrutar de la naturaleza.",
+            "calificacion": 4.6
+          }
+        ]
+      }
+
+  ]
+  
