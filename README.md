@@ -6,7 +6,7 @@ Intento que este sitio pueda ser visible en la mayor cantidad de dispositivos po
 Puedes ver el estado actual del proyecto pinchando el siguiente link:
 
 ## link para visitar el proyecto ##
-# [Vamos](web-personal-github-8ybeyvgiw-andres-s-bellos-projects.vercel.app) #
+# [Vamos](web-personal-github-dj9jc759z-andres-s-bellos-projects.vercel.app) #
 
 
 ## Project setup
