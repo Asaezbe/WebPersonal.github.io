@@ -5,8 +5,8 @@ El proyecto se utiliza (JS) VUE, CSS3, JQuery para hacerlo más responsive y Boo
 Intento que este sitio pueda ser visible en la mayor cantidad de dispositivos posibles y que tenga un gran nivel de accesibilidad, tanto para personas mayores o con dificultad de movimiento en las extremidades superiores.
 Puedes ver el estado actual del proyecto pinchando el siguiente link:
 
-## link para visitar el proyecto ##
-# [Vamos](web-personal-github-dj9jc759z-andres-s-bellos-projects.vercel.app) #
+## link para ver el proyecto
+[Vamos](web-personal-github-39pj6nmv8-andres-s-bellos-projects.vercel.app)
 
 
 ## Project setup
