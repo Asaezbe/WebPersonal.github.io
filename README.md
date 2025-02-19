@@ -1,4 +1,4 @@
-# respaldo sitio web personal #
+# Respaldo sitio web personal #
 Actualmente está en construcción, pero tiene avances suficientes como para dar un vistazo.
 
 El proyecto se utiliza (JS) VUE, CSS3, JQuery para hacerlo más responsive y Bootstrap solo para aprovechar el sistema de columnas y grillas.
@@ -10,27 +10,3 @@ Puedes ver el estado actual del proyecto pinchando el siguiente link:
 
 Link alternativo.
 web-personal-github-39pj6nmv8-andres-s-bellos-projects.vercel.app
-
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
